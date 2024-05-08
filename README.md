@@ -1,2 +1,2 @@
 # indu-sproject
-  this the utube video notes and files 
+  this is the utube video notes and files 
